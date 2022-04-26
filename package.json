@@ -1,0 +1,14 @@
+{
+  "name": "devloper",
+  "version": "1.0.0",
+  "description": "This is developer data table.",
+  "main": "index.js",
+  "scripts": {
+    "ALL-devs": "json-server --watch db.json --port5050"
+  },
+  "author": "joyss",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
